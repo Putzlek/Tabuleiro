@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+:root {
+    --amarelo: #F0E46F;
+    --bege: #DFA05A;
+    --laranja: #C94B08;
+    --vermelho: #931102;
+    --verde: #062827;
+    --branco: #FFFFFF;
+    --preto: #000000;
+}
+
+body{
+    background-color: #062827;
+}
+
+a {
+    color: #DFA05A;
+}
+
+p{
+    color: #FFFFFF;
+}
+
+li{
+    color: #FFFFFF;
+}
+
+h1{
+    color:#F0E46F;
+}
+
+h2{
+    color: #F0E46F;
+}
+
+h3{
+    color: #F0E46F;
+}
+
+h4{
+    color: #F0E46F;
+}
+
